@@ -18,7 +18,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - Audio gerado pela elevenLabs
 - Meta IA Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
-- Prompts Utilizados [AQUI]
+- Prompts Utilizados [AQUI](https://github.com/OrquideaFlorida/prompts-for-podcast-generate-by-ia/blob/main/MeuPrompt.txt)
 - Confira o Podcast [AQUI]
 
 ## 📚 Materiais
