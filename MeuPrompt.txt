@@ -1,0 +1,20 @@
+Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de Tecnologia, cujo o nome é "Desvendando Mitos" e tem foco em desvendar informações falsas na internet com o público alvo população em geral.
+
+O formato do roteiro deve ter
+[INTRODUÇÃO]
+[INFORMAÇÃO 1]
+[INFORMAÇÃO 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+- no bloco [INTROCUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal "Nunca vi 1 cientista" como se fossem escritos por Laura Marise
+
+- no bloco [INFORMAÇÃO 1] sobre as consequências de seguir informações sem embasamento médico
+- no bloco [INFORMAÇÃO 2] sobre dicas de cuidados para não ser influenciado por promessas milagrosas
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool e no final "Eu sou Orquídea e muito obridada por ouvir o Desvendando Mitos"
+- o podcast será apresentado somente por uma pessoa, chamada Orquídea
+- o podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+- não use termos muito técnicos
+- não ultrapasse 3 minutos de duração
