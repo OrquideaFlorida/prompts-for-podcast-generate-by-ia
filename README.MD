@@ -5,6 +5,11 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
+## ✨ Confira abaixo o meu Podcast "Desvendando Mitos"
+
+- Prompts Utilizados [AQUI](https://github.com/OrquideaFlorida/prompts-for-podcast-generate-by-ia/blob/main/MeuPrompt.txt)
+- Confira o Podcast [AQUI](https://github.com/OrquideaFlorida/prompts-for-podcast-generate-by-ia/blob/main/Podcast_DesvendandoMitos.mp4)
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
@@ -19,7 +24,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - Meta IA Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 - Prompts Utilizados [AQUI](https://github.com/OrquideaFlorida/prompts-for-podcast-generate-by-ia/blob/main/MeuPrompt.txt)
-- Confira o Podcast [AQUI]
+- Confira o Podcast [AQUI](https://github.com/OrquideaFlorida/prompts-for-podcast-generate-by-ia/blob/main/Podcast_DesvendandoMitos.mp4)
 
 ## 📚 Materiais
 
